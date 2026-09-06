@@ -32,4 +32,4 @@ https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domai
 </p>
 
 ## API 教程演示
-- 参考 [Cloudflare 优选IP API - API 教程演示](https://github.com/LancelotRar/best-cf-ips#api-教程演示)
+- 参考 [Cloudflare 优选 IP API 教程演示](https://github.com/LancelotRar/best-cf-ips#api-教程演示)
