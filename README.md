@@ -10,10 +10,10 @@
 
 ## 应用效果
 
-- 具体表现取决于使用者当地网络环境，仅供参考。
+- 具体表现取决于使用者当地网络环境，仅供参考。点击查看清晰图。
 
 <p align="center">
-  <img src="src/PC2.png" alt="效果图">
+  <img src="src/phone1.png" alt="效果图" width="150" height="240"><img src="src/PC1.png" alt="效果图" width="430" height="240">
 </p>
 
 ## DOMAIN API
