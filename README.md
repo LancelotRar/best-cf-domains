@@ -30,3 +30,6 @@ https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domai
 <p align="center">
   <img src="src/in-edt.png" alt="效果图">
 </p>
+
+## API 教程演示
+- 参考 [Cloudflare 优选IP API - API 教程演示](https://github.com/LancelotRar/best-cf-ips#api-教程演示)
