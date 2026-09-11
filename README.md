@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domai
 
 ## 使用
 
-- 可接入 [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)-自定义订阅汇聚，从而将优选域名转换为代理节点。
+- 可接入 [Cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)-自定义订阅汇聚，从而将优选域名转换为代理节点。
 - 非即时更新，视使用体验少量更新。
 
 <p align="center">
