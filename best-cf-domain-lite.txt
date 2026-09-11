@@ -1,0 +1,10 @@
+shopify.com:443#优选 | shopify.com
+nexusmods.com:443#优选 | nexusmods.com
+mfa.gov.ua:443#优选 | mfa.gov.ua
+store.ubi.com:443#优选 | store.ubi.com
+cf.877774.xyz:443#优选 | cf.877774.xyz
+cf.090227.xyz:443#优选 | cf.090227.xyz
+cloudflare.seeck.cn:443#优选 | 三网 | cloudflare.seeck.cn
+ctcc.cloudflare.seeck.cn:443#优选 | 电信 | ctcc.cloudflare.seeck.cn
+cmcc.cloudflare.seeck.cn:443#优选 | 移动 | cmcc.cloudflare.seeck.cn
+cucc.cloudflare.seeck.cn:443#优选 | 联通 | cucc.cloudflare.seeck.cn

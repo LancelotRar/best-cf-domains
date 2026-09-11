@@ -22,6 +22,12 @@
 https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domain.txt
 ```
 
+## DOMAIN API Lite：
+
+```
+https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domain-lite.txt
+```
+
 ## 使用
 
 - 可接入 [Cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)-自定义订阅汇聚，从而将优选域名转换为代理节点。
