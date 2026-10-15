@@ -8,7 +8,3 @@ cloudflare.seeck.cn:443#优选 | 三网 | cloudflare.seeck.cn
 ctcc.cloudflare.seeck.cn:443#优选 | 电信 | ctcc.cloudflare.seeck.cn
 cmcc.cloudflare.seeck.cn:443#优选 | 移动 | cmcc.cloudflare.seeck.cn
 cucc.cloudflare.seeck.cn:443#优选 | 联通 | cucc.cloudflare.seeck.cn
-cf.cloudflare.19931110.xyz#优选 | cf.cloudflare.19931110.xyz
-cf.cloudflare.22336666.xyz#优选 | cf.cloudflare.22336666.xyz
-cf.cloudflare.cnae.top#优选 | cf.cloudflare.cnae.top
-cf.cloudflare.byoip.top#优选 | cf.cloudflare.byoip.top
