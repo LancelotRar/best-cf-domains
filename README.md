@@ -1,8 +1,7 @@
 <div align="center">
 
 # Cloudflare 优选域名 API
-### Cloudflare 优选域名，服务于 Cloudflare 免费代理搭建方案，优质域名即为优质节点。
-
+### Cloudflare 优选域名，服务于 Cloudflare 免费代理搭建方案，优质域名即为优质节点
 
 <img src="https://badgen.net/github/stars/LancelotRar/best-cf-domains" align="absmiddle" style="height:20px"> <img src="https://badgen.net/github/forks/LancelotRar/best-cf-domains" align="absmiddle" style="height:20px"> <a href="https://t.me/liqunchannel"><img src="https://badgen.net/badge/利群便利店/频道" align="absmiddle" style="height:20px"></a>
 
