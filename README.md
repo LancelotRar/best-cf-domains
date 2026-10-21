@@ -1,17 +1,19 @@
+<div align="center">
+
 # Cloudflare 优选域名 API
+### Cloudflare 优选域名，服务于 Cloudflare 免费代理搭建方案，优质域名即为优质节点。
 
-## Cloudflare 优选域名，服务于 Cloudflare 免费代理搭建方案，优质域名即为优质节点。
 
-<p align="center">
-<img src="https://badgen.net/github/stars/LancelotRar/best-cf-domains" align="absmiddle" style="height:25px"> <img src="https://badgen.net/github/forks/LancelotRar/best-cf-domains" align="absmiddle" style="height:25px"> <a href="https://t.me/liqunchannel"><img src="https://badgen.net/badge/利群便利店/频道" align="absmiddle" style="height:25px"></a>
-</p>
+<img src="https://badgen.net/github/stars/LancelotRar/best-cf-domains" align="absmiddle" style="height:20px"> <img src="https://badgen.net/github/forks/LancelotRar/best-cf-domains" align="absmiddle" style="height:20px"> <a href="https://t.me/liqunchannel"><img src="https://badgen.net/badge/利群便利店/频道" align="absmiddle" style="height:20px"></a>
+
+</div>
 
 ## 应用效果
 
 - 转换后的优选域名将成为代理节点，具体表现取决于使用者当地网络环境，仅供参考。点击查看清晰图
 
 <p align="center">
-  <img src="src/phone1.png" alt="效果图" width="150" height="240"><img src="src/PC1.png" alt="效果图" width="430" height="240">
+  <img src="src/phone1.png" alt="效果图" width="17%"> <img src="src/PC1.png" alt="效果图" width="47%">
 </p>
 
 ## 项目说明
@@ -26,23 +28,24 @@
 
 ## 接入指南
 
-- **Cmliu/edgetunnel**
-    - 复制粘贴 API 链接至“自定义优选”框中（无需点开下方“订阅接口”按钮）
-    - **<ins>支持填入多个 API 链接</ins>**
-    - 保存
-
-<p align="center">
-  <img src="src/in-edt.png" alt="效果图">
-</p>
-
-- **byJoey/cfnew**
-    - 复制粘贴 API 链接至“优选 IP 来源 URL” 框中
-    - **<ins>仅支持填入单个 API 链接</ins>**
-    - 保存
-
-<p align="center">
-  <img src="src/in-cfnew.png" alt="效果图">
-</p>
+<table>
+  <thead>
+    <tr>
+      <th><div align="center">项目</div></th>
+      <th><div align="center">操作示意</div></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle"><strong>Cmliu/edgetunnel</strong><br>1. 复制粘贴 API 链接至“自定义优选”框中（无需点开下方“订阅接口”按钮）<br>2. <strong><ins>支持填入多个 API 链接</ins></strong><br>3. 保存</td>
+      <td align="center" valign="middle"><img src="src/in-edt.png" alt="edgetunnel 接入效果图" width="440"></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>byJoey/cfnew</strong><br>1. 复制粘贴 API 链接至“优选 IP 来源 URL” 框中<br>2. <strong><ins>仅支持填入单个 API 链接</ins></strong><br>3. 保存</td>
+      <td align="center" valign="middle"><img src="src/in-cfnew.png" alt="cfnew 接入效果图" width="440"></td>
+    </tr>
+  </tbody>
+</table>
 
 ## API 详情
 
